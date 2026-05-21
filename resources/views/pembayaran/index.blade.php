@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@title('Daftar Pembayaran')
+<!-- @title('Daftar Pembayaran') -->
 
 @section('content')
 <div class="d-sm-flex align-items-center justify-content-between mb-4">

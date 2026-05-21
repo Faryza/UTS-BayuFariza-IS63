@@ -9,7 +9,7 @@
     <meta name="description" content="Sistem Manajemen Kost - UTS Bayu Fariza">
     <meta name="author" content="Bayu Fariza">
 
-    <title>Kost Management - @yield('title', 'Dashboard')</title>
+    <!-- <title>Kost Management - @yield('title', 'Dashboard')</title> -->
 
     <!-- Custom fonts for this template-->
     <link href="{{ asset('vendor/fontawesome-free/css/all.min.css') }}" rel="stylesheet" type="text/css">

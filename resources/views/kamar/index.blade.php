@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@title('Daftar Kamar')
+<!-- @title('Daftar Kamar') -->
 
 @section('content')
 <div class="d-sm-flex align-items-center justify-content-between mb-4">
